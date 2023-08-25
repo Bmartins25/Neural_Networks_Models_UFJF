@@ -6,7 +6,17 @@
 
 ------ 
 
-# Dados totais
+# Arquiteturas e Conjuntos de dados - andamento
 
 * LeNet - MNIST - check
 * LeNet - CIFAR - check
+
+-----
+
+* AlexNet - MNIST -
+* AlexNet - CIFAR -
+
+------
+
+* VGG - MNIST -
+* VGG - CIFAR - 
