@@ -18,7 +18,7 @@
 
 ------
 
-* VGG - MNIST -
+* VGG - MNIST - check
 * VGG - CIFAR - check - tensorflow/tensorboard
 
 -----
