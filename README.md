@@ -23,7 +23,7 @@
 
 -----
 
-# GPU
+# GPU "Graphics Processing Unit" - unidade de processamento de gráficos
 * CUDA 8.0.61
 * CUDNN 5.1
 * tensorflow_gpu 1.2.0
