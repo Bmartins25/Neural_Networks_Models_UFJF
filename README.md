@@ -8,8 +8,8 @@
 
 # Arquiteturas e Conjuntos de dados - andamento
 
-* LeNet - MNIST - check
-* LeNet - CIFAR - check
+* LeNet - MNIST - check - Sem plot
+* LeNet - CIFAR - check - Sem plot
 
 -----
 
@@ -19,4 +19,4 @@
 ------
 
 * VGG - MNIST -
-* VGG - CIFAR - 
+* VGG - CIFAR - check - tensorflow/tensorboard
