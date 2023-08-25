@@ -8,4 +8,5 @@
 
 # Dados totais
 
-* 6 scripts
+* LeNet - MNIST - check
+* LeNet - CIFAR - check
