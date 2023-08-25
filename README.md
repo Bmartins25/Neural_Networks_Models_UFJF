@@ -20,3 +20,20 @@
 
 * VGG - MNIST -
 * VGG - CIFAR - check - tensorflow/tensorboard
+
+-----
+
+# Use GPU
+CUDA 8.0.61
+CUDNN 5.1
+tensorflow_gpu 1.2.0
+
+------
+
+# Chose GPU to use
+$ CUDA_VISIBLE_DEVICES=0 python main.py (optional patameters...)
+
+------
+
+# Logs
+$ tensorboard --logdir=/logs
