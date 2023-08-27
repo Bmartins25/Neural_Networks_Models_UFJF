@@ -35,6 +35,6 @@ $ tensorboard --logdir=/logs
 
 ------
 
-# VGG - Acurácia / Época de perda
+# VGG - Acurácia / Perda
 
 ![image](https://github.com/Bmartins25/Redes_Neurais_Modelos/assets/42076192/39361610-c7a9-4440-8740-bb9274d62201)
