@@ -13,7 +13,7 @@
 
 -----
 
-* AlexNet - MNIST -
+* AlexNet - MNIST - check
 * AlexNet - CIFAR -
 
 ------
