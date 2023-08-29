@@ -9,43 +9,27 @@
 # Arquiteturas e Conjuntos de dados - andamento
 
 * LeNet - MNIST - check - Sem plot
-* Hiperparâmetros ->
-RANDOM_SEED = 1
-LEARNING_RATE = 0.001
-BATCH_SIZE = 128
-NUM_EPOCHS = 10
+* Hiperparâmetros -> RANDOM_SEED = 1 / LEARNING_RATE = 0.001 / BATCH_SIZE = 128 / NUM_EPOCHS = 10
 
 * LeNet - CIFAR - check - Sem plot
-* Hiperparãmetros ->
-RANDOM_SEED = 1
-LEARNING_RATE = 0.001
-BATCH_SIZE = 128
-NUM_EPOCHS = 10
+* Hiperparãmetros -> RANDOM_SEED = 1 / LEARNING_RATE = 0.001 / BATCH_SIZE = 128 / NUM_EPOCHS = 10
 
 
 -----
 
 * AlexNet - MNIST - check
-* hiperparametros ->
-batch_size = 128
-resize = 224
-max_epochs = 10
-num_gpus= = 1
+* hiperparametros -> batch_size = 128 / resize = 224 /max_epochs = 10 / num_gpus= = 1
     
 * AlexNet - CIFAR - check
-* hiperparametros ->
-epochs = 5
-lrate = 0.01
-decay = lrate/epochs
-batch_size = 32
+* hiperparametros -> epochs = 5 / lrate = 0.01 / batch_size = 32
 
 ------
 
 * VGG - MNIST - check
-*  Hiperparâmetros - > batch_size = 128/ epochs = 12 / learning_rate  =0.001 / num_classes = 10
+*  Hiperparâmetros - > batch_size = 128/ epochs = 12 / num_classes = 10
   
 * VGG - CIFAR - check - tensorflow/tensorboard
-* Hiperparâmetros - > batch_size = 100 / epochs = 3 / learning_rate = 0.001 /
+* Hiperparâmetros - > batch_size = 100 / epochs = 3 / learning_rate = 0.001 
 
 -----
 
