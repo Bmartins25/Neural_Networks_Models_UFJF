@@ -42,8 +42,10 @@ batch_size = 32
 ------
 
 * VGG - MNIST - check
+*  Hiperparâmetros - > batch_size = 128/ epochs = 12 / learning_rate  =0.001 / num_classes = 10
+  
 * VGG - CIFAR - check - tensorflow/tensorboard
-* Alterações para teste
+* Hiperparâmetros - > batch_size = 100 / epochs = 3 / learning_rate = 0.001 /
 
 -----
 
