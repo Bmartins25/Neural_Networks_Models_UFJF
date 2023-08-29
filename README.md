@@ -9,17 +9,41 @@
 # Arquiteturas e Conjuntos de dados - andamento
 
 * LeNet - MNIST - check - Sem plot
+* Hyperparameters
+RANDOM_SEED = 1
+LEARNING_RATE = 0.001
+BATCH_SIZE = 128
+NUM_EPOCHS = 10
+
 * LeNet - CIFAR - check - Sem plot
+* Hyperparameters
+RANDOM_SEED = 1
+LEARNING_RATE = 0.001
+BATCH_SIZE = 128
+NUM_EPOCHS = 10
+
 
 -----
 
 * AlexNet - MNIST - check
+* hiperparametros
+batch_size = 128
+resize = 224
+max_epochs = 10
+num_gpus= = 1
+    
 * AlexNet - CIFAR - check
+* hiperparametros
+epochs = 5
+lrate = 0.01
+decay = lrate/epochs
+batch_size = 32
 
 ------
 
 * VGG - MNIST - check
 * VGG - CIFAR - check - tensorflow/tensorboard
+* Alterações para teste
 
 -----
 
