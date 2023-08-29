@@ -18,10 +18,10 @@
 -----
 
 * AlexNet - MNIST - check
-* hiperparametros -> batch_size = 128 / resize = 224 /max_epochs = 10 / num_gpus= = 1
+* Hiperparâmetros -> batch_size = 128 / resize = 224 /max_epochs = 10 / num_gpus= = 1
     
 * AlexNet - CIFAR - check
-* hiperparametros -> epochs = 5 / lrate = 0.01 / batch_size = 32
+* Hiperparâmetros -> epochs = 5 / lrate = 0.01 / batch_size = 32
 
 ------
 
