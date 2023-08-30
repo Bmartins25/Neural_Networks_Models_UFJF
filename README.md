@@ -9,19 +9,19 @@
 # Arquiteturas e Conjuntos de dados 
 
 * LeNet - MNIST - check - Sem plot
-* Hiperparâmetros -> LEARNING_RATE = 0.001 / BATCH_SIZE = 128 / NUM_EPOCHS = 10
+* Hiperparâmetros -> learning_rate = 0.001 / batch_size = 128 / epochs = 10
 
 * LeNet - CIFAR - check - Sem plot
-* Hiperparãmetros ->  LEARNING_RATE = 0.001 / BATCH_SIZE = 128 / NUM_EPOCHS = 10
+* Hiperparãmetros ->  learning_rate = 0.001 / batch_size = 128 / epochs = 10
 
 
 -----
 
 * AlexNet - MNIST - check
-* Hiperparâmetros -> batch_size = 128 / resize = 224 /max_epochs = 10 / num_gpus= = 1
+* Hiperparâmetros -> batch_size = 128 / resize = 224 /max_epochs = 10 / num_gpus= = 1 / learning_rate = 0.01
     
 * AlexNet - CIFAR - check
-* Hiperparâmetros -> epochs = 5 / lrate = 0.01 / batch_size = 32
+* Hiperparâmetros -> epochs = 5 / learning_rate = 0.01 / batch_size = 32
 
 ------
 
