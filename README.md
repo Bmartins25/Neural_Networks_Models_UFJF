@@ -6,7 +6,7 @@
 
 ------ 
 
-# Arquiteturas e Conjuntos de dados 
+# Arquiteturas e Conjuntos de dados - em andamento
 
 LeNet - MNIST - check - Sem plot
 * Hiperparâmetros -> learning_rate = 0.001 / batch_size = 128 / epochs = 10
