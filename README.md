@@ -67,6 +67,11 @@ VGG - CIFAR - check - tensorflow/tensorboard
 
 
 
+# AlexNet - Acurácia / Perda - MNIST  - Dados de treino e teste
+
+![image](https://github.com/Bmartins25/Redes_Neurais_Modelos/assets/42076192/ed62fb1f-3e53-4500-912b-88af8d2c6c51)
+
+
 # LeNet - Acurácia / Perda - CIFAR10
 
 
