@@ -51,5 +51,5 @@ $ tensorboard --logdir=/logs
 
 # AlexNet - Acurácia / Perda
 
-![Uploading image.png…]()
+
 
