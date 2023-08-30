@@ -8,10 +8,10 @@
 
 # Arquiteturas e Conjuntos de dados 
 
-* LeNet - MNIST - check - Sem plot
+LeNet - MNIST - check - Sem plot
 * Hiperparâmetros -> learning_rate = 0.001 / batch_size = 128 / epochs = 10
 
-* LeNet - CIFAR - check - Sem plot
+LeNet - CIFAR - check - Sem plot
 * Hiperparãmetros ->  learning_rate = 0.001 / batch_size = 128 / epochs = 10
 
 
