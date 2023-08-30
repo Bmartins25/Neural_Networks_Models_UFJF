@@ -17,18 +17,18 @@ LeNet - CIFAR - check - Sem plot
 
 -----
 
-* AlexNet - MNIST - check
+AlexNet - MNIST - check
 * Hiperparâmetros -> batch_size = 128 / resize = 224 /max_epochs = 10 / num_gpus= = 1 / learning_rate = 0.01
     
-* AlexNet - CIFAR - check
+AlexNet - CIFAR - check
 * Hiperparâmetros -> epochs = 5 / learning_rate = 0.01 / batch_size = 32
 
 ------
 
-* VGG - MNIST - check
-*  Hiperparâmetros - > batch_size = 128/ epochs = 12 / num_classes = 10
+VGG - MNIST - check
+* Hiperparâmetros - > batch_size = 128/ epochs = 12 / num_classes = 10
   
-* VGG - CIFAR - check - tensorflow/tensorboard
+VGG - CIFAR - check - tensorflow/tensorboard
 * Hiperparâmetros - > batch_size = 100 / epochs = 3 / learning_rate = 0.001 
 
 -----
