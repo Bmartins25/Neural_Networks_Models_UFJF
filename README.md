@@ -9,10 +9,10 @@
 # Arquiteturas e Conjuntos de dados - andamento
 
 * LeNet - MNIST - check - Sem plot
-* Hiperparâmetros -> RANDOM_SEED = 1 / LEARNING_RATE = 0.001 / BATCH_SIZE = 128 / NUM_EPOCHS = 10
+* Hiperparâmetros -> LEARNING_RATE = 0.001 / BATCH_SIZE = 128 / NUM_EPOCHS = 10
 
 * LeNet - CIFAR - check - Sem plot
-* Hiperparãmetros -> RANDOM_SEED = 1 / LEARNING_RATE = 0.001 / BATCH_SIZE = 128 / NUM_EPOCHS = 10
+* Hiperparãmetros ->  LEARNING_RATE = 0.001 / BATCH_SIZE = 128 / NUM_EPOCHS = 10
 
 
 -----
