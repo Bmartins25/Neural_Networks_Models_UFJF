@@ -53,5 +53,6 @@ $ tensorboard --logdir=/logs
 
 ![image](https://github.com/Bmartins25/Redes_Neurais_Modelos/assets/42076192/39436828-8aaa-4f8e-8a3c-e85f08a409b2)
 
+# leNet - Acurácia / Perda - CIFAR10
 
 
