@@ -45,11 +45,11 @@ $ tensorboard --logdir=/logs
 
 ------
 
-# VGG - Acurácia / Perda
+# VGG - Acurácia / Perda - CIFAR10
 
 ![image](https://github.com/Bmartins25/Redes_Neurais_Modelos/assets/42076192/39361610-c7a9-4440-8740-bb9274d62201)
 
-# AlexNet - Acurácia / Perda
+# AlexNet - Acurácia / Perda - CIFAR10
 
 ![image](https://github.com/Bmartins25/Redes_Neurais_Modelos/assets/42076192/39436828-8aaa-4f8e-8a3c-e85f08a409b2)
 
