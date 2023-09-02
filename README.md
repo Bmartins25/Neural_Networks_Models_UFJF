@@ -4,39 +4,10 @@
 * Conjuntos de dados: FashionMNIST e CIFAR-10
 * Arquivo ' Relatório Técnico ' informando detalhadamente todo o processo.
 
-
 ------ 
-
-# Arquiteturas e Conjuntos de dados - em andamento
-
-LeNet - MNIST - check - Sem plot
-* Hiperparâmetros -> learning_rate = 0.001 / batch_size = 128 / epochs = 10
-
-LeNet - CIFAR - check - Sem plot
-* Hiperparãmetros ->  learning_rate = 0.001 / batch_size = 128 / epochs = 10
-
-
------
-
-AlexNet - MNIST - check
-* Hiperparâmetros -> batch_size = 128 / resize = 224 /max_epochs = 10 / num_gpus= = 1 / learning_rate = 0.01
-    
-AlexNet - CIFAR - check
-* Hiperparâmetros -> epochs = 5 / learning_rate = 0.01 / batch_size = 32
-
-------
-
-VGG - MNIST - check
-* Hiperparâmetros - > batch_size = 128/ epochs = 12 / num_classes = 10
-  
-VGG - CIFAR - check - tensorflow/tensorboard
-* Hiperparâmetros - > batch_size = 100 / epochs = 3 / learning_rate = 0.001 
-
------
 
 # GPU - Unidade de processamento de gráficos
 * CUDA 8.0.61
-* CUDNN 5.1
 * tensorflow_gpu 1.2.0
 
 ------
