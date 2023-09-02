@@ -19,6 +19,7 @@
 
 # Alguns exemplo
 
+
 # VGG - Acurácia / Perda - CIFAR10 - Dados de treino e teste
 
 ![image](https://github.com/Bmartins25/Redes_Neurais_Modelos/assets/42076192/a86afaee-28b4-4741-afd7-e86aa58722b1)
@@ -31,9 +32,6 @@
 ![image](https://github.com/Bmartins25/Redes_Neurais_Modelos/assets/42076192/be41be85-55da-48b3-9ccd-4b67fb314142)
 
 
-
-
-
 # AlexNet - Acurácia / Perda - CIFAR10  - Dados de treino e teste
 
 ![image](https://github.com/Bmartins25/Redes_Neurais_Modelos/assets/42076192/d4508e32-11f7-4021-8645-b0b11cc0009d)
@@ -41,9 +39,7 @@
 
 
 
-# AlexNet - Acurácia / Perda - MNIST  - Dados de treino e teste
 
-![image](https://github.com/Bmartins25/Redes_Neurais_Modelos/assets/42076192/ed62fb1f-3e53-4500-912b-88af8d2c6c51)
 
 
 
