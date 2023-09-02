@@ -17,6 +17,8 @@
 
 ------
 
+# Alguns exemplo
+
 # VGG - Acurácia / Perda - CIFAR10 - Dados de treino e teste
 
 ![image](https://github.com/Bmartins25/Redes_Neurais_Modelos/assets/42076192/a86afaee-28b4-4741-afd7-e86aa58722b1)
