@@ -1,4 +1,8 @@
 # Redes_Neurais_Modelos
+(Linha de Pesquisa: Deep Learning)
+
+-----
+
 * Repositório atendendo a tarefa do Mestrado UFJF em Ciência da Computação " Implementação de Redes Neurais ".
 * Arquiteturas: AlexNet, LeNet e VGG.
 * Conjuntos de dados: FashionMNIST e CIFAR-10
